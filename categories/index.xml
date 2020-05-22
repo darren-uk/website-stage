@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Darren Colson - WEB DEVELOPER</title>
-    <link>https://darrencolson.uk/categories/</link>
+    <link>https://darren-uk.github.io/website-stage/categories/</link>
     <description>Recent content in Categories on Darren Colson - WEB DEVELOPER</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 05 May 2020 14:55:55 +0100</lastBuildDate>
     
-	<atom:link href="https://darrencolson.uk/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://darren-uk.github.io/website-stage/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>post</title>
-      <link>https://darrencolson.uk/categories/post/</link>
+      <link>https://darren-uk.github.io/website-stage/categories/post/</link>
       <pubDate>Tue, 05 May 2020 14:55:55 +0100</pubDate>
       
-      <guid>https://darrencolson.uk/categories/post/</guid>
+      <guid>https://darren-uk.github.io/website-stage/categories/post/</guid>
       <description></description>
     </item>
     

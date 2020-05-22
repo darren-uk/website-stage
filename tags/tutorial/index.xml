@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tutorial on Darren Colson - WEB DEVELOPER</title>
-    <link>https://darrencolson.uk/tags/tutorial/</link>
+    <link>https://darren-uk.github.io/website-stage/tags/tutorial/</link>
     <description>Recent content in tutorial on Darren Colson - WEB DEVELOPER</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 05 May 2020 12:30:50 +0100</lastBuildDate>
     
-	<atom:link href="https://darrencolson.uk/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://darren-uk.github.io/website-stage/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Firstarticle</title>
-      <link>https://darrencolson.uk/blog/firstarticle/</link>
+      <link>https://darren-uk.github.io/website-stage/blog/firstarticle/</link>
       <pubDate>Tue, 05 May 2020 12:30:50 +0100</pubDate>
       
-      <guid>https://darrencolson.uk/blog/firstarticle/</guid>
+      <guid>https://darren-uk.github.io/website-stage/blog/firstarticle/</guid>
       <description>&lt;p&gt;This is my first article. This is posted using HUGO SSG.&lt;/p&gt;</description>
     </item>
     

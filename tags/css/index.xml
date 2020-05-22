@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>css on Darren Colson - WEB DEVELOPER</title>
-    <link>https://darrencolson.uk/tags/css/</link>
+    <link>https://darren-uk.github.io/website-stage/tags/css/</link>
     <description>Recent content in css on Darren Colson - WEB DEVELOPER</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 05 May 2020 12:46:08 +0100</lastBuildDate>
     
-	<atom:link href="https://darrencolson.uk/tags/css/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://darren-uk.github.io/website-stage/tags/css/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Secound Article</title>
-      <link>https://darrencolson.uk/blog/secound-article/</link>
+      <link>https://darren-uk.github.io/website-stage/blog/secound-article/</link>
       <pubDate>Tue, 05 May 2020 12:46:08 +0100</pubDate>
       
-      <guid>https://darrencolson.uk/blog/secound-article/</guid>
+      <guid>https://darren-uk.github.io/website-stage/blog/secound-article/</guid>
       <description>This is my secound article.</description>
     </item>
     
